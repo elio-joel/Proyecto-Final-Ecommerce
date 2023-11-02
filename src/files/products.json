@@ -1,0 +1,123 @@
+
+[
+	{
+	    "id": "perfumeria-uno",
+        "category": "Perfumeria",
+        "name": "Perfume para hombre",
+        "description": "Locion masculina de 100ml",
+        "code": "PPA",
+        "price": 4200,
+        "stock":120,
+        "status": true,
+        "owner": []
+
+    },
+    {
+        "id": "cremas-uno",
+        "category": "Cremas",
+        "title": "Crema corporal",
+        "description": "Crema unisex con extractos de aloe vera",
+        "code": "CCA",
+        "price": 4200,
+        "stock": 120,
+        "status": true,
+        "owner": []
+    },
+    
+    {
+        "id": "desodorante-uno",
+        "category": "Perfumeria",
+        "title": "Desodorante spray p/mujer",
+        "description": "Locion femenina de 100ml",
+        "code": "PPD",
+        "price": 12000,
+        "stock": 120,
+        "status": true,
+        "owner": []
+    },
+    {
+        "id": "labiales-uno",
+        "category": "Labial",
+        "title": "Labial matte",
+        "description": "Labial saborizado",
+        "code": "PPE",
+        "price": 1800,
+        "stock": 20,
+        "status": true,
+        "owner": []
+    },
+    {
+        "id": "labiales-dos",
+        "category": "Labial",
+        "title": "Labial matte",
+        "description": "Labial saborizado",
+        "code": "PPF",
+        "price": 1700,
+        "stock": 20,
+        "status": true,
+        "owner": []
+    },
+    
+    {
+            "id": "5",
+            "category": "Accesorios",
+            "name": "Kit de Cepillos de Maquillaje Profesional",
+            "description": "Un conjunto de cepillos de maquillaje de alta calidad para lograr un maquillaje perfecto.",
+            "code": "KCM005",
+            "price": 29.99,
+            "stock": 25,
+            "status": "Disponible",
+            "owner": ["ADMIN", "USER"]
+    },
+
+    {
+    
+            "id": "4",
+            "category": "Uñas",
+            "name": "Esmalte de Uñas Brillante",
+            "description": "Esmalte de uñas de larga duración con un acabado brillante y elegante.",
+            "code": "EUB004",
+            "price": 9.99,
+            "stock": 100,
+            "status": "Disponible",
+            "owner": ["ADMIN", "USER"]
+    
+          
+    },
+    {
+        "id": "3",
+        "category": "Fragancias",
+        "name": "Perfume Floral Fresco",
+        "description": "Una fragancia con notas florales y toques cítricos para una sensación fresca y femenina.",
+        "code": "PFF003",
+        "price": 49.99,
+        "stock": 20,
+        "status": "Disponible",
+        "owner": ["ADMIN", "USER"]
+      },
+      {
+        "id": "2",
+        "category": "Cuidado de la Piel",
+        "name": "Crema Hidratante Antiedad",
+        "description": "Una crema hidratante rica en antioxidantes para reducir los signos del envejecimiento.",
+        "code": "CHA002",
+        "price": 39.99,
+        "stock": 30,
+        "status": "Disponible",
+        "owner": ["ADMIN", "USER"]
+      },
+      {
+        "id": "1",
+        "category": "Maquillaje",
+        "name": "Base Luminosa",
+        "description": "Base de maquillaje que proporciona un brillo sutil y luminosidad a la piel.",
+        "code": "BL001",
+        "price": 24.99,
+        "stock": 50,
+        "status": "Disponible",
+        "owner": ["ADMIN", "USER"]
+      }
+      
+          
+    
+]
